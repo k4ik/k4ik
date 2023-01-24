@@ -2,7 +2,7 @@
 
 ## **About Me:**
 
-- 👓 **Focused on learning Mobile App Development**
+- 🧠 **Focused on learning Mobile App Development**
 - ☕ **Currently studying the Java language**
 - 📚 **High School Student**
 
