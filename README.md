@@ -15,9 +15,9 @@
 
 ###
 
-- 🔭 I'm working as Front-end Developer
-- 📚 I am currently learning Ruby and React
-- ⚡ In my free time I play retro games, zelda is my favorite
+- 🔭 I'm working as Front-end Developer;
+- 📚 I am currently learning Ruby;
+- ⚡ In my free time I play retro games.
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
