@@ -33,3 +33,7 @@
 </div>
 
 ###
+
+<div align="right">
+  <img src="https://github.com/k4ik/k4ik/assets/121681971/3642e13c-5286-437c-ba05-385fce4d20dc" width="50px" height="50px">
+</div>
