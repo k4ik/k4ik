@@ -35,5 +35,5 @@
 ###
 
 <div align="right">
-  <img src="https://github.com/k4ik/k4ik/assets/121681971/3642e13c-5286-437c-ba05-385fce4d20dc" width="50px" height="50px">
+  <img src="https://media.discordapp.net/attachments/1147277866707468472/1147518534495240202/tumblr_b443ba32c864948b21be13545c04818b_375a3e72_500.gif?width=498&height=498" width="50px" height="50px">
 </div>
