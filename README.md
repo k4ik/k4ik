@@ -2,9 +2,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
 - 🔭 Currently working as a front-end developer;
-- 📚 Studying Computer Science.
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
