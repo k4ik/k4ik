@@ -1,21 +1,22 @@
+<!-- Your Name -->
+# 👋 Hello, my name is Kaik!
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
+Hello! I'm a Frontend developer determined to become a Fullstack Developer. Currently, I'm diving into PHP and SQL studies to expand my skill set. With a strong foundation in HTML, CSS, and JavaScript, I'm always seeking new knowledge to elevate the quality of my solutions as a freelancer. My goal is not just to meet but to exceed my clients' expectations by delivering high-quality and functional products.
 
-###
-- 🔭 Currently working as a front-end developer;
-###
+## 🚧 Featured Projects
+- [Project 1](link_to_project_1): Coming soon.
+- [Project 2](link_to_project_2): Coming soon.
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+- PHP (in learning)
+- SQL (next step)
 
-###
-
-<div align="left">
-  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-</div> 
-
+## 📫 Contact
+<!--- LinkedIn: [Your LinkedIn](link_to_your_linkedin)
+- Email: youremail@example.com-->
+- [Coming soon.](contact): 
+ 
