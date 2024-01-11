@@ -1,7 +1,7 @@
 <!-- Your Name -->
-# 👋 Hello, my name is Kaik!
+# Hello, my name is Kaik!
 
-## 🛠️ Technologies
+## Technologies
 <div style="display: flex;">
     <img width="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="40" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -15,5 +15,5 @@
 
 </div>
 
-## 📫 Contact
+## Contact
 - Twitter: [Click Here](https://twitter.com/k4ik_)
