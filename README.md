@@ -15,4 +15,4 @@
 </div>
 
 ## Contact
-- Twitter: [Click Here](https://twitter.com/k4ik_)
+- [Twitter](https://twitter.com/k4ik_)
