@@ -4,7 +4,7 @@
 - Freelance front-end developer
 - Studying to become a full-stack developer
 - Main interest: web and mobile development
-- Currently focused on studying Vue.js and Go (Golang)
+- Currently focused on studying Vue.js and PHP
 
 ## 🚀 Technologies
 ### Front-end
@@ -13,7 +13,7 @@
 - **CSS Framework**: Tailwind CSS
 
 ### Back-end
-- **Language**: Go
+- **Language**: PHP
 
 ## 📫 Get in Touch
 - Twitter: [@k4ik_](https://twitter.com/k4ik_)
