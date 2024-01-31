@@ -1,7 +1,7 @@
 # Hi there, I'm Kaik! 👋
 
 ## 🌱 About Me
-- Freelance front-end developer
+- Front-end developer
 - Studying to become a full-stack developer
 - Main interest: web and mobile development
 - Currently focused on studying Vue.js and PHP
