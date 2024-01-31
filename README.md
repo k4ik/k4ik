@@ -15,5 +15,5 @@
 ### Back-end
 - **Language**: PHP
 
-## 📫 Get in Touch
-- Twitter: [@k4ik_](https://twitter.com/k4ik_)
+<!--## 📫 Get in Touch
+- Twitter: [@k4ik_](https://twitter.com/k4ik_) -->
