@@ -14,6 +14,7 @@
 
 ### Back-end
 - **Language**: PHP
+- **Database**: MySQL
 
 <!--## 📫 Get in Touch
 - Twitter: [@k4ik_](https://twitter.com/k4ik_) -->
