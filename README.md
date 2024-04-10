@@ -1,20 +1,24 @@
-# Hi there, I'm Kaik! 👋
+```zsh
+~ $ neofetch
 
-## 🌱 About Me
-- Front-end developer
-- Studying to become a full-stack developer
-- Main interest: web and mobile development
-- Currently focused on studying Vue.js and PHP
-
-## 🚀 Technologies
-### Front-end
-- **Languages**: HTML5, CSS3, JavaScript
-- **Frameworks/Libraries**: Vue.js, Sass
-- **CSS Framework**: Tailwind CSS
-
-### Back-end
-- **Language**: PHP
-- **Database**: MySQL
-
-<!--## 📫 Get in Touch
-- Twitter: [@k4ik_](https://twitter.com/k4ik_) -->
+           `-/osyhddddhyso/-`              kaik@github
+        .+yddddddddddddddddddy+.           ------------------------
+      :yddddddddddddddddddddddddy:         OS: Xubuntu 22.04.4 LTS x86_64
+    -yddddddddddddddddddddhdddddddy-       WM: Xfwm4
+   odddddddddddyshdddddddh`dddd+ydddo      Editor: vscode
+ `yddddddhshdd-   ydddddd+`ddh.:dddddy`    Discord: 
+ sddddddy   /d.   :dddddd-:dy`-ddddddds    Tech Stack: C/C++, Java, PHP, PostgreSQL, JavaScript, Vue.js, Sass, Tailwind
+:ddddddds    /+   .dddddd`yy`:ddddddddd:   
+sdddddddd`    .    .-:/+ssdyodddddddddds   
+ddddddddy                  `:ohddddddddd   
+dddddddd.                      +dddddddd   
+sddddddy                        ydddddds   
+:dddddd+                      .oddddddd:   
+ sdddddo                   ./ydddddddds    
+ `yddddd.              `:ohddddddddddy`    
+   oddddh/`      `.:+shdddddddddddddo      
+    -ydddddhyssyhdddddddddddddddddy-       
+      :yddddddddddddddddddddddddy:        
+        .+yddddddddddddddddddy+.          
+           `-/osyhddddhyso/-`             
+```
