@@ -7,7 +7,7 @@
     -yddddddddddddddddddddhdddddddy-       WM: Xfwm4
    odddddddddddyshdddddddh`dddd+ydddo      Editor: vscode
  `yddddddhshdd-   ydddddd+`ddh.:dddddy`    Discord: 
- sddddddy   /d.   :dddddd-:dy`-ddddddds    Tech Stack: C/C++, Java, PHP, PostgreSQL, JavaScript, Vue.js, Sass, Tailwind
+ sddddddy   /d.   :dddddd-:dy`-ddddddds    Tech Stack: C/C++, PHP, PostgreSQL, JavaScript, Vue.js, Sass, Tailwind
 :ddddddds    /+   .dddddd`yy`:ddddddddd:   
 sdddddddd`    .    .-:/+ssdyodddddddddds   
 ddddddddy                  `:ohddddddddd   
