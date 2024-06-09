@@ -4,10 +4,10 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções web.
 - 🎓 Cursando o 3º ano do ensino médio.
-- 💼 Trabalhando como desenvolvedor Fullstack Web.
+- 💼 Trabalhando como desenvolvedor Fullstack Web Freelancer.
 - 🌱 Aprendendo mais sobre Laravel e outras tecnologias backend.
 
-## Minhas Skills
+## Skills
 
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,vue,tailwind,js,sass&theme=dark)](https://skillicons.dev)
@@ -22,5 +22,7 @@
 </div>
 
 ## Onde Me Encontrar
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,github,instagram,twitter,discord&theme=light)](https://skillicons.dev)
+<a href=""><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href=""><img src="https://skillicons.dev/icons?i=github"></a>
+<a href=""><img src="https://skillicons.dev/icons?i=instagram"></a>
+<a href=""><img src="https://skillicons.dev/icons?i=twitter"></a>
