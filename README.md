@@ -1,28 +1,35 @@
-# Olá 👋
+# Hello 👋
 
-## Sobre Mim
+## About Me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções web.
-- 🎓 Cursando o 3º ano do ensino médio.
-- 💼 Trabalhando como desenvolvedor Fullstack Web Freelancer.
-- 🌱 Aprendendo mais sobre Laravel e outras tecnologias backend.
+- 🤔 Exploring new technologies and developing web solutions.
+- 🎓 Currently in the 3rd year of high school.
+- 💼 Working as a Fullstack Web Developer Freelancer.
+- 🌱 Learning more about Laravel and other backend technologies.
 
 ## Skills
 
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,vue,tailwind,js,sass&theme=dark)](https://skillicons.dev)
 
-### Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,docker,figma,notion,postman,vim&theme=dark)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,postman,vim&theme=dark)](https://skillicons.dev)
 
-## Estatísticas do GitHub
+## GitHub Stats
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k4ik&theme=dracula&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4ik&theme=dracula&layout=compact"/>
 </div>
 
-## Onde Me Encontrar
-<a href=""><img src="https://skillicons.dev/icons?i=linkedin"></a>
-<a href=""><img src="https://skillicons.dev/icons?i=github"></a>
-<a href=""><img src="https://skillicons.dev/icons?i=instagram"></a>
-<a href=""><img src="https://skillicons.dev/icons?i=twitter"></a>
+## Featured Projects
+
+- 🏆 **[Agrinho 2023 Project](https://github.com/k4ik/agrinho-2023)** - Award-winning project focused on sustainable development.
+- 🌾 **[Agrinho 2024 Project](https://github.com/k4ik/agrinho-2024)** - Current project for the Agrinho 2024 competition, focusing on sustainable rural development.
+- 🌦️ [Weather App](https://weather-app.vercel.app) - A Vue.js and Sass application that shows the weather.
+<!--- 🐱 [CatPics](https://github.com/k4ik/CatPics) - A fun app to view random cat pictures.
+- 🎵 [Spotify-UI](https://github.com/k4ik/spotify-ui) - A Spotify UI clone built with Vue.js and Sass.-->
+- ❄️ **[Penguin Chat 2 Clone](https://github.com/k4ik/penguin-chat-clone)** - A clone of Penguin Chat 2 to practice websocket connections and canvas api
+
+## Contact Me
+- 💼 LinkedIn: [Kaik](https://www.linkedin.com/in/kaik-eduardo/)
+- 🐦 Twitter: [@ajafhbagfga](https://twitter.com/ajafhbagfga)
