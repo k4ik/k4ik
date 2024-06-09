@@ -1,4 +1,4 @@
-# Olá, eu sou K4ik 👋
+# Olá 👋
 
 ## Sobre Mim
 
@@ -9,11 +9,11 @@
 
 ## Minhas Skills
 
-### Aplicações e Dados
-[![My Skills](https://skillicons.dev/icons?i=vue,react,php,laravel,js,html,css,sass,mysql&theme=light)](https://skillicons.dev)
+### Stack
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,vue,tailwind,js,sass&theme=dark)](https://skillicons.dev)
 
-### Ferramentas de Desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,docker,figma,notion,postman&theme=light)](https://skillicons.dev)
+### Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,docker,figma,notion,postman,vim&theme=dark)](https://skillicons.dev)
 
 ## Estatísticas do GitHub
 <div>
