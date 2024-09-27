@@ -9,7 +9,7 @@
 ## 🌟 Featured Projects
 - [Calfit](https://github.com/CalFit)
 - [Penguin Chat](https://github.com/penguin-chat)
-- [Post IO](https://github.com/k4ik/post-io)
+- [Newsletter](https://github.com/k4ik/landing-page-newsletter)
 - [CatPics](https://github.com/CatPics)
 
 ## 📫 How to reach me
