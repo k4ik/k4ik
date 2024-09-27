@@ -13,5 +13,5 @@
 - [CatPics](https://github.com/CatPics)
 
 ## 📫 How to reach me
-- LinkedIn: [/kaik-eduardo](https://linkedin.com/in/kaik)
+- LinkedIn: [/kaik-eduardo](https://linkedin.com/in/kaik-eduardo)
 - Email: [kaik.e.l.couto@gmail.com](mailto:kaik.e.l.couto@gmail.com)
