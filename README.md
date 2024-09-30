@@ -7,10 +7,10 @@
 - **DevOps**: Docker, Linux
 
 ## 🌟 Featured Projects
-- [Calfit](https://github.com/CalFit)
-- [Penguin Chat](https://github.com/penguin-chat)
+- [Calfit](https://github.com/k4ik/CalFit)
+- [Penguin Chat](https://github.com/k4ik/penguin-chat)
 - [Newsletter](https://github.com/k4ik/landing-page-newsletter)
-- [CatPics](https://github.com/CatPics)
+- [CatPics](https://github.com/k4ik/CatPics)
 
 ## 📫 How to reach me
 - LinkedIn: [/kaik-eduardo](https://linkedin.com/in/kaik-eduardo)
