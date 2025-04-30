@@ -39,5 +39,3 @@ Fullstack Web Developer · Linux Enthusiast · Language Learner
 - 📧 **Email:** [kaik.dev@gmail.com](mailto:email@gmail.com)  
 - 🧑‍💻 **GitHub:** [github.com/kaik](https://github.com/kaik)  
 - 💼 **LinkedIn:** [linkedin.com/in/kaik](https://linkedin.com/)
-
----
