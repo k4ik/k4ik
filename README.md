@@ -1,8 +1,6 @@
 <div align="center">
 
 # 👋 Hey, I'm Kaik 
-Fullstack Web Developer · Linux Enthusiast · Language Learner
-
 </div>
 
 ---
@@ -32,10 +30,3 @@ Fullstack Web Developer · Linux Enthusiast · Language Learner
 
 > 🔗 More projects on my [GitHub Repositories »](https://github.com/k4ik?tab=repositories)
 
----
-
-## 📬 Get in Touch
-
-- 📧 **Email:** [kaik.dev@gmail.com](mailto:email@gmail.com)  
-- 🧑‍💻 **GitHub:** [github.com/kaik](https://github.com/kaik)  
-- 💼 **LinkedIn:** [linkedin.com/in/kaik](https://linkedin.com/)
