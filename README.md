@@ -28,10 +28,12 @@
 
 ## 🚀 Launched Projects
 
-| Project | Description | Tech Stack | Live Demo |
+| Project | Description | Tech Stack | Repo |
 |---------|-------------|------------|-----------|
 | **Weather CLI** | Command-line weather tool using WeatherAPI | Python | [GitHub](https://github.com/k4ik/weather-cli) |
-| **Pokédex** | Responsive Pokédex with efficient data fetching | HTML, CSS, JS | [GitHub](https://github.com/k4ik/pokedex) |
+| **Pokédex** | Responsive Pokédex with efficient data fetching | HTML, CSS, JavaScript | [GitHub](https://github.com/k4ik/pokedex) |
+| **Task Manager CLI** | Command-line tool to manage daily tasks | TypeScript | [GitHub](https://github.com/k4ik/task-manager-cli) |
+
 
 > 🔍 Explore more on my [GitHub Repositories](https://github.com/k4ik?tab=repositories)
 
