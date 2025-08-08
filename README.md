@@ -22,7 +22,7 @@
 `Git` · `Linux` · `Docker` · `NeoVim` · `VS Code`
 
 ### **Additional Languages**  
-`Python` · `C` · `C++`
+`Python` · `C` · `C++`· `Java`
 
 ---
 
