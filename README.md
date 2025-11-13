@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
   
 *👋 Hello, I'm Kaik!*
 
@@ -6,9 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaik-eduardo)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k4ik)
 
-</div>
+</div>-->
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -24,7 +23,7 @@
 ### **Additional Languages**  
 `Python` · `C` · `C++`· `Java`
 
----
+<!---
 
 ## 🚀 Launched Projects
 
@@ -54,4 +53,4 @@
 |---------|-------------|------------|--------|
 | **CatPics** | Image-sharing platform for cat enthusiasts | Vue.js, PHP | Planning Phase |
 | **ShelfLife** | Product expiration tracking system | Vue.js, Laravel | Planning Phase |
-
+-->
