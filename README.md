@@ -9,7 +9,7 @@ I mainly work with **PHP/Laravel** on the backend and **Vue.js** on the frontend
 
 | Project     | Description                                                                                                              | Stack                | Status         | Links                                  |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------- | -------------- | --------------------------------------- |
-| **ReqBin**  | Lightweight tool for testing HTTP requests. Send API requests, inspect responses, and experiment with endpoints quickly. | PHP   | Active         | [Repo](https://github.com/k4ik/reqbin)  |
+| **ReqBin**  | Minimal request bin built with pure PHP. Create endpoints to capture and inspect incoming HTTP requests through a simple interface. | PHP   | Active         | [Repo](https://github.com/k4ik/reqbin)  |
 | **Clienta** | Client management & scheduling platform for small businesses. Organize clients, appointments, and reminders easily.      | PHP, Laravel, Vue.js, TypeScript | In Development | # |
 
 ---
