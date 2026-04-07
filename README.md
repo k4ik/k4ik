@@ -9,8 +9,10 @@ I mainly work with **PHP/Laravel** on the backend and **Vue.js** on the frontend
 
 | Project     | Description                                                                                                              | Stack                | Status         | Links                                  |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------- | -------------- | --------------------------------------- |
-| **ReqBin**  | Minimal request bin built with pure PHP. Create endpoints to capture and inspect incoming HTTP requests through a simple interface. | PHP   | Active         | [Repo](https://github.com/k4ik/reqbin)  |
-| **Clienta** | Client management & scheduling platform for small businesses. Organize clients, appointments, and reminders easily.      | PHP, Laravel, Vue.js, TypeScript | In Development | # |
+| **ReqBin**  | Minimal request bin built with pure PHP. Create custom endpoints to capture and inspect HTTP requests (headers, body, payload) through a simple interface. | PHP   | Active         | [Repo](https://github.com/k4ik/reqbin)  |
+| **Clienta** | Client management & scheduling SaaS for small businesses. Supports multi-user workspaces, appointments, and reminders.    | PHP, Laravel, Vue.js, TypeScript | In Development | # |
+| **Financial Control System** | Multi-user financial management system to track income, expenses, and balances with a focus on performance and data organization. | PHP, Laravel, Vue.js, TypeScript | In Development | # |
+
 
 ---
 
@@ -21,22 +23,4 @@ I mainly work with **PHP/Laravel** on the backend and **Vue.js** on the frontend
 | **Frontend**            | Vue.js, JavaScript, TypeScript, Tailwind CSS, HTML, CSS |
 | **Backend**             | PHP, Laravel                  |
 | **Tools & Environment** | Linux, Git, Docker / Podman   |
-
----
-
-## 🔭 Currently
-
-* Building SaaS tools with **Laravel + Vue**
-* Learning **Python automation**
-* Exploring **Linux optimization and performance tuning**
-<!--
----
-
-## 📫 Contact
-
-| Platform  | Link                                        |
-| --------- | ------------------------------------------- |
-| Email     | [kaik@example.com](mailto:kaik@example.com) |
-| Portfolio | [myportfolio.com](https://myportfolio.com)  |
-| LinkedIn  | [Kaik Leal](https://linkedin.com/in/k4ik-eduardo)   |-->
 
