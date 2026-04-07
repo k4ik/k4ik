@@ -1,4 +1,4 @@
-# Hi, I'm Kaik 👋
+
 
 Full-stack web developer focused on building **simple, useful, and efficient web applications**.
 I mainly work with **PHP/Laravel** on the backend and **Vue.js** on the frontend. I enjoy creating tools, SaaS products, and small utilities.
