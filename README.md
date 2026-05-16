@@ -8,12 +8,3 @@
 | **Clienta** | Client management and scheduling SaaS for small businesses. | Laravel, Vue.js, TypeScript | In Development |
 | **Financial Control System** | Multi-user financial management platform focused on organization and performance. | Laravel, Vue.js, TypeScript | In Development |
 
-## Stack
-
-| Category | Technologies |
-|---|---|
-| **Frontend** | Vue.js, TypeScript, JavaScript, Tailwind CSS |
-| **Backend** | PHP, Laravel |
-| **Databases** | MySQL, SQLite |
-| **Tools** | Git, Docker, Podman |
-| **Environment** | Linux |
