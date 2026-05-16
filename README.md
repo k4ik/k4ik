@@ -10,9 +10,10 @@
 
 ## Stack
 
-| Frontend | Backend | Tools |
-|---|---|---|
-| Vue.js | PHP | Docker |
-| TypeScript | Laravel | Podman |
-| Tailwind CSS |  | Linux |
-|  |  | Git |
+| Category | Technologies |
+|---|---|
+| **Frontend** | Vue.js, TypeScript, JavaScript, Tailwind CSS |
+| **Backend** | PHP, Laravel |
+| **Databases** | MySQL, SQLite |
+| **Tools** | Git, Docker, Podman |
+| **Environment** | Linux |
