@@ -4,7 +4,6 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [**ReqBin**](https://github.com/k4ik/reqbin) | Minimal request bin built with pure PHP for capturing and inspecting HTTP requests. | PHP | Active |
-| **Clienta** | Client management and scheduling SaaS for small businesses. | Laravel, Vue.js, TypeScript | In Development |
-| **Financial Control System** | Multi-user financial management platform focused on organization and performance. | Laravel, Vue.js, TypeScript | In Development |
+| [**ReqBin**](https://github.com/k4ik/reqbin) | HTTP request inspector. | PHP | Active |
+| **Financial Control System** | Multi-user financial management platform. | Laravel, Vue.js, TypeScript | In Development |
 
