@@ -4,6 +4,7 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [**ReqBin**](https://github.com/k4ik/reqbin) | HTTP request inspector. | PHP | Active |
+| [**ReqBin**](https://github.com/k4ik/reqbin) | HTTP request inspector. | PHP, Redis | Active |
+| [**Matchlist**](https://github.com/k4ik/cs2matchlist) | CS2 match tracker | Laravel, Vue.js, Inertia, Redis, TypeScript, Tailwind CSS, Node, Playwright | Active |
 | **Financial Control System** | Multi-user financial management platform. | Laravel, Vue.js, TypeScript | In Development |
 
